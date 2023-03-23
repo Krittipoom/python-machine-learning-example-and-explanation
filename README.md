@@ -1,5 +1,5 @@
 # Python Machine Learning Example and Explanation
-This is a repository of Jupyter Notebook examples for machine learning techniques in Python. Each notebook includes code examples and explanations for a specific machine learning task.
+This is a repository of Jupyter Notebook examples for machine learning techniques in Python. Each notebook includes code examples and explanations for a specific machine learning task. Dataset and Algorithm from sklearn library.
 
 # Getting Started
 To get started, clone this repository to your local machine:
