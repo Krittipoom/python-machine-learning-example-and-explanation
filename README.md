@@ -10,6 +10,7 @@ git clone https://https://github.com/Krittipoom/python-machine-learning-example-
 ```
 
 Then, navigate to the repository directory and launch Jupyter Notebook:
+also, make sure you have Jupyter Notebook installed.
 
 ```
 cd python-machine-learning-example-and-explanation
